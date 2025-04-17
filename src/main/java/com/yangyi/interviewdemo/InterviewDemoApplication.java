@@ -8,6 +8,8 @@ public class InterviewDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(InterviewDemoApplication.class, args);
+        System.out.println("b naive commit");
+
     }
 
 }
